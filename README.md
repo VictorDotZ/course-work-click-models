@@ -1,4 +1,4 @@
-# Курсовая работа по теме "Исследование нейросетевых методов построения кликовой модели для задач информационного поиска"
+# The Study of neural network methods for constructing a click model for information retrieval problems
 
 * Обработка датасета: `/src/scripts/`
 * Модификация GraphCM: [github.com/VictorDotZ/GraphCM](https://github.com/VictorDotZ/GraphCM)
