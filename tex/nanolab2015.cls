@@ -12,9 +12,9 @@
 \ProvidesClass{nanolab2015}[2008/06/18]
 \LoadClass[a4paper,12pt, oneside,titlepage]{book}
 %\RequirePackage[cp1251]{inputenc}%for WiN
-\RequirePackage[english,russian]{babel}
 \RequirePackage[utf8]{inputenc}
 \RequirePackage[T2A]{fontenc}
+\RequirePackage[english,russian]{babel}
 %\RequirePackage[colorlinks=true, bookmarks=true, pagebackref=true, unicode=true]{hyperref}
 \RequirePackage{amssymb}
 \RequirePackage{amsmath}
